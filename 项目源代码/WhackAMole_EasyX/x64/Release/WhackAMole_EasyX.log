@@ -1,0 +1,11 @@
+﻿  Sound.cpp
+  WhackAMole.cpp
+D:\BaiduNetdiskDownload\EasyX打地鼠小游戏（源码工程+编译版本+报告文档）\项目源代码\WhackAMole_EasyX\WhackAMole.cpp(146,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\BaiduNetdiskDownload\EasyX打地鼠小游戏（源码工程+编译版本+报告文档）\项目源代码\WhackAMole_EasyX\WhackAMole.cpp(146,22): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\BaiduNetdiskDownload\EasyX打地鼠小游戏（源码工程+编译版本+报告文档）\项目源代码\WhackAMole_EasyX\WhackAMole.cpp(148,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\BaiduNetdiskDownload\EasyX打地鼠小游戏（源码工程+编译版本+报告文档）\项目源代码\WhackAMole_EasyX\WhackAMole.cpp(148,22): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 336 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  WhackAMole_EasyX.vcxproj -> D:\BaiduNetdiskDownload\EasyX打地鼠小游戏（源码工程+编译版本+报告文档）\项目源代码\x64\Release\WhackAMole_EasyX.exe
